@@ -1,0 +1,86 @@
+﻿<Window x:Class="Quizzard.AddMoreQ"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Quizzard"
+        mc:Ignorable="d"
+        Title="Identification_Question" Height="576" Width="1024" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" MouseDown="Window_MouseDown">
+	<Window.Background>
+        <ImageBrush ImageSource="pack://application:,,,/Images/MainMenu_Plain.jpg" RenderOptions.BitmapScalingMode="HighQuality"/>
+	</Window.Background>
+	<Grid>
+		<TextBlock x:Name="Banner" HorizontalAlignment="Center" Margin="114,162,106,0" TextWrapping="WrapWithOverflow" VerticalAlignment="Top" RenderTransformOrigin="-7.364,-0.771"
+	  Foreground="White" FontFamily="Century Gothic" FontSize="40" Text="Add Another Question?" Height="87" Width="804" TextAlignment="Center"/>
+		<Button x:Name="No" Margin="524,254,369,267" Content="Test" Click="No_Click">
+			<Button.Template>
+				<ControlTemplate>
+					<ControlTemplate.Resources>
+						<Image x:Key="NORMAL" Source="pack://application:,,,/Images/No.png" RenderOptions.BitmapScalingMode="HighQuality" Stretch="Uniform"/>
+						<Image x:Key="OVER" Source="pack://application:,,,/Images/NoHover.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+					</ControlTemplate.Resources>
+
+					<Grid RenderTransformOrigin="0.5,0.5"
+                  x:Name="bg">
+						<Label x:Name="import_image" Content="{DynamicResource NORMAL}" HorizontalContentAlignment="Center" HorizontalAlignment="Stretch"/>
+					</Grid>
+					<ControlTemplate.Triggers>
+						<Trigger Property="IsMouseOver"
+                         Value="True">
+							<!-- hover effect -->
+							<Setter TargetName="import_image"
+                            Property="Content"
+                            Value="{DynamicResource OVER}" />
+						</Trigger>
+						<Trigger Property="Button.IsPressed"
+                         Value="True">
+							<!-- press effect -->
+							<Setter TargetName="bg"
+                            Property="RenderTransform">
+								<Setter.Value>
+									<ScaleTransform ScaleX="0.9"
+                                            ScaleY="0.9" />
+								</Setter.Value>
+							</Setter>
+						</Trigger>
+					</ControlTemplate.Triggers>
+				</ControlTemplate>
+			</Button.Template>
+		</Button>
+		<Button x:Name="Yes" Margin="369,254,524,268" Content="Test" Click="Yes_Click">
+			<Button.Template>
+				<ControlTemplate>
+					<ControlTemplate.Resources>
+						<Image x:Key="NORMAL" Source="pack://application:,,,/Images/Yes.png" RenderOptions.BitmapScalingMode="HighQuality" Stretch="Uniform"/>
+						<Image x:Key="OVER" Source="pack://application:,,,/Images/YesHover.png" RenderOptions.BitmapScalingMode="HighQuality"/>
+					</ControlTemplate.Resources>
+
+					<Grid RenderTransformOrigin="0.5,0.5"
+                  x:Name="bg">
+						<Label x:Name="import_image" Content="{DynamicResource NORMAL}" HorizontalContentAlignment="Center" HorizontalAlignment="Stretch"/>
+					</Grid>
+					<ControlTemplate.Triggers>
+						<Trigger Property="IsMouseOver"
+                         Value="True">
+							<!-- hover effect -->
+							<Setter TargetName="import_image"
+                            Property="Content"
+                            Value="{DynamicResource OVER}" />
+						</Trigger>
+						<Trigger Property="Button.IsPressed"
+                         Value="True">
+							<!-- press effect -->
+							<Setter TargetName="bg"
+                            Property="RenderTransform">
+								<Setter.Value>
+									<ScaleTransform ScaleX="0.9"
+                                            ScaleY="0.9" />
+								</Setter.Value>
+							</Setter>
+						</Trigger>
+					</ControlTemplate.Triggers>
+				</ControlTemplate>
+			</Button.Template>
+		</Button>
+	</Grid>
+</Window>

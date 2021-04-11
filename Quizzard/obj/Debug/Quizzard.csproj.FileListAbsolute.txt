@@ -1,0 +1,136 @@
+C:\Users\jaum\source\repos\Quizzard\bin\Debug\Quizzard.exe.config
+C:\Users\jaum\source\repos\Quizzard\bin\Debug\Quizzard.exe
+C:\Users\jaum\source\repos\Quizzard\bin\Debug\Quizzard.pdb
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\AddMoreQ.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\AnswerQuiz.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\CreateQuiz.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\DeleteQuiz.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\EnumerationFinal.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\EnumerationQuestions.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\EnumerationQuizPage.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\IdentificationQuizPage.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Identification_AltAns.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Identification_Final.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Identification_Question.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MainMenu.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MainWindow.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MultipleChoiceQuizPage.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MultipleChoice_Final.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MultipleChoice_Question.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\App.g.cs
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Quizzard_MarkupCompile.cache
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Quizzard_MarkupCompile.lref
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\App.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\AddMoreQ.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\AnswerQuiz.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\CreateQuiz.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\DeleteQuiz.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\EnumerationFinal.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\EnumerationQuestions.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\EnumerationQuizPage.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\IdentificationQuizPage.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Identification_AltAns.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Identification_Final.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Identification_Question.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MainMenu.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MainWindow.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MultipleChoiceQuizPage.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MultipleChoice_Final.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\MultipleChoice_Question.baml
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Quizzard.g.resources
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Quizzard.Properties.Resources.resources
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Quizzard.csproj.GenerateResource.cache
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Quizzard.csproj.CoreCompileInputs.cache
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Quizzard.exe
+C:\Users\jaum\source\repos\Quizzard\obj\Debug\Quizzard.pdb
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\bin\Debug\Quizzard.exe.config
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\bin\Debug\Quizzard.exe
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\bin\Debug\Quizzard.pdb
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\AddMoreQ.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\AnswerQuiz.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\CreateQuiz.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\DeleteQuiz.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\EnumerationFinal.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\EnumerationQuestions.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\EnumerationQuizPage.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\IdentificationQuizPage.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Identification_AltAns.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Identification_Final.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Identification_Question.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MainMenu.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MainWindow.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MultipleChoiceQuizPage.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MultipleChoice_Final.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MultipleChoice_Question.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\App.g.cs
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Quizzard_MarkupCompile.cache
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Quizzard_MarkupCompile.lref
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\App.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\AddMoreQ.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\AnswerQuiz.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\CreateQuiz.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\DeleteQuiz.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\EnumerationFinal.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\EnumerationQuestions.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\EnumerationQuizPage.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\IdentificationQuizPage.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Identification_AltAns.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Identification_Final.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Identification_Question.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MainMenu.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MainWindow.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MultipleChoiceQuizPage.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MultipleChoice_Final.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\MultipleChoice_Question.baml
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Quizzard.g.resources
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Quizzard.Properties.Resources.resources
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Quizzard.csproj.GenerateResource.Cache
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Quizzard.csproj.CoreCompileInputs.cache
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Quizzard.exe
+C:\Users\Dayne Fradejas\Desktop\Quizzard-20181020T053125Z-001\Quizzard\obj\Debug\Quizzard.pdb
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\bin\Debug\Quizzard.exe.config
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\bin\Debug\Quizzard.exe
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\bin\Debug\Quizzard.pdb
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Quizzard.csprojResolveAssemblyReference.cache
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\AddMoreQ.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\AnswerQuiz.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\CreateQuiz.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\DeleteQuiz.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\EnumerationFinal.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\EnumerationQuestions.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\EnumerationQuizPage.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\IdentificationQuizPage.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Identification_AltAns.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Identification_Final.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Identification_Question.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MainMenu.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MainWindow.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MultipleChoiceQuizPage.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MultipleChoice_Final.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MultipleChoice_Question.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\App.g.cs
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Quizzard_MarkupCompile.cache
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Quizzard_MarkupCompile.lref
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\App.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\AddMoreQ.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\AnswerQuiz.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\CreateQuiz.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\DeleteQuiz.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\EnumerationFinal.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\EnumerationQuestions.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\EnumerationQuizPage.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\IdentificationQuizPage.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Identification_AltAns.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Identification_Final.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Identification_Question.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MainMenu.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MainWindow.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MultipleChoiceQuizPage.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MultipleChoice_Final.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\MultipleChoice_Question.baml
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Quizzard.g.resources
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Quizzard.Properties.Resources.resources
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Quizzard.csproj.GenerateResource.Cache
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Quizzard.csproj.CoreCompileInputs.cache
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Quizzard.exe
+D:\Dayne Fradejas\Documents\Mapúan Files\4th Year\1st Term\COE181P-1L - Lee\Final Project\Quizzard\Quizzard\obj\Debug\Quizzard.pdb

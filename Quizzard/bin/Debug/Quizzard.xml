@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quizzard>
+  <Quiz id="Iden1" type="Identification" order="False" enAlt="False" enHint="False" caseSens="False">
+    <Item>
+      <Question>Q1</Question>
+      <Answer>A1</Answer>
+      <Hint>H1</Hint>
+      <Alternate-Answer>AltAns1</Alternate-Answer>
+    </Item>
+  </Quiz>
+  <Quiz id="Enum1" type="Enumeration" order="False" caseSens="False">
+    <Item>
+      <Question>Enum1</Question>
+      <Answer>EnumA1</Answer>
+      <Answer>EnumA2</Answer>
+      <Answer>EnumA3</Answer>
+    </Item>
+  </Quiz>
+  <Quiz id="MP1" type="Multiple Choice" order="False">
+    <Item>
+      <Question>MP1</Question>
+      <Answer>Ctest</Answer>
+      <Choice>Atest</Choice>
+      <Choice>Btest </Choice>
+      <Choice>Ctest</Choice>
+      <Choice>Dtest</Choice>
+    </Item>
+  </Quiz>
+</Quizzard>

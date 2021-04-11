@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quizzard>
+  <Quiz id="test" type="Identification" order="False" enAlt="False" enHint="False" caseSens="False">
+    <Item>
+      <Question>tes</Question>
+      <Answer>ttse</Answer>
+      <Hint>tse</Hint>
+    </Item>
+  </Quiz>
+  <Quiz id="tses" type="Identification" order="True" enAlt="True" enHint="True" caseSens="True">
+    <Item>
+      <Question>tet</Question>
+      <Answer>es</Answer>
+      <Hint>ts</Hint>
+      <Alternate-Answer>tess</Alternate-Answer>
+      <Alternate-Answer>tse</Alternate-Answer>
+    </Item>
+  </Quiz>
+  <Quiz />
+  <Quiz id="mp" type="Multiple Choice" order="False">
+    <Item>
+      <Question>test</Question>
+      <Answer>tse</Answer>
+      <Choice>tse</Choice>
+      <Choice>tts</Choice>
+      <Choice>ts</Choice>
+      <Choice>ts</Choice>
+    </Item>
+  </Quiz>
+  <Quiz id="Enum1" type="Enumeration" order="False" caseSens="True">
+    <Item>
+      <Question>test</Question>
+      <Answer>tsets</Answer>
+      <Answer>tset</Answer>
+      <Answer>tset</Answer>
+    </Item>
+  </Quiz>
+</Quizzard>

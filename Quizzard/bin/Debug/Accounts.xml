@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Account>
+  <User>
+    <Username>dayne</Username>
+    <Password>1234</Password>
+    <CreatedQuizzes />
+  </User>
+  <User>
+    <Username>Jeff</Username>
+    <Password>1234</Password>
+    <CreatedQuizzes />
+  </User>
+  <User>
+    <Username>admin</Username>
+    <Password>admin</Password>
+    <CreatedQuizzes />
+  </User>
+</Account>

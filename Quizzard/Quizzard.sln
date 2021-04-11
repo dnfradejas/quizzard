@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quizzard", "Quizzard.csproj", "{2B922661-648C-40ED-9D6D-0D56EA8358E6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QuizzardApp", "..\QuizzardApp\QuizzardApp.vdproj", "{01E5ED08-B122-4F5E-9BD9-7BFE8337E24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B922661-648C-40ED-9D6D-0D56EA8358E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B922661-648C-40ED-9D6D-0D56EA8358E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B922661-648C-40ED-9D6D-0D56EA8358E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B922661-648C-40ED-9D6D-0D56EA8358E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E5ED08-B122-4F5E-9BD9-7BFE8337E24B}.Debug|Any CPU.ActiveCfg = Debug
+		{01E5ED08-B122-4F5E-9BD9-7BFE8337E24B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E5308D4-0DF0-4B2D-A378-8D26C0C7570C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scores>
+  <Quiz id="tests" />
+  <Quiz id="mp">
+    <User username="Jeff" score="2" />
+  </Quiz>
+  <Quiz id="Enum1">
+    <User username="Jeff" score="0" />
+  </Quiz>
+</Scores>
